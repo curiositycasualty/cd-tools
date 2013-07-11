@@ -1,0 +1,5 @@
+[gerrit]
+host=review.foo.bar
+port=29418
+project=cd-tools
+defaultbranch=master
